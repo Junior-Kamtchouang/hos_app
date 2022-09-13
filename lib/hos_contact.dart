@@ -30,7 +30,7 @@ class HosContact extends StatelessWidget {
                       Text(
                         'CONTACT',
                         style: TextStyle(
-                          fontFamily: 'SourceSansPro',
+                          fontFamily: 'EBGraramond-Regular',
                           fontSize: 27.0,
                           fontWeight: FontWeight.bold,
                           color: Colors.white,
@@ -39,7 +39,7 @@ class HosContact extends StatelessWidget {
                       Text(
                         'Get in touch with us',
                         style: TextStyle(
-                          fontFamily: 'SourceSansPro',
+                          fontFamily: 'EBGraramond-Regular',
                           color: Colors.white,
                           fontSize: 20.0,
                           letterSpacing: 2.5,
@@ -91,7 +91,7 @@ class HosContact extends StatelessWidget {
                               style: TextStyle(
                                 color: Colors.white,
                                 fontSize: 30.0,
-                                fontFamily: 'SourceSansPro',
+                                fontFamily: 'EBGraramond-Regular',
                                 fontWeight: FontWeight.bold,
                               ),
                             ),
@@ -99,7 +99,7 @@ class HosContact extends StatelessWidget {
                               '+49 208 94187285',
                               style: TextStyle(
                                 fontSize: 25.0,
-                                fontFamily: 'SourceSansPro',
+                                fontFamily: 'EBGraramond-Regular',
                                 color: Colors.white,
                               ),
                             ),
@@ -126,7 +126,7 @@ class HosContact extends StatelessWidget {
                               style: TextStyle(
                                 color: Color(0xFF0c014d),
                                 fontSize: 30.0,
-                                fontFamily: 'SourceSansPro',
+                                fontFamily: 'EBGraramond-Regular',
                                 fontWeight: FontWeight.bold,
                               ),
                             ),
@@ -134,7 +134,7 @@ class HosContact extends StatelessWidget {
                               '+49 157 30261644',
                               style: TextStyle(
                                 fontSize: 20.0,
-                                fontFamily: 'SourceSansPro',
+                                fontFamily: 'EBGraramond-Regular',
                                 color: Color(0xFF0c014d),
                               ),
                             ),
@@ -161,7 +161,7 @@ class HosContact extends StatelessWidget {
                               style: TextStyle(
                                 color: Color(0xFF0c014d),
                                 fontSize: 30.0,
-                                fontFamily: 'SourceSansPro',
+                                fontFamily: 'EBGaramond-Regular',
                                 fontWeight: FontWeight.bold,
                               ),
                             ),
@@ -169,7 +169,7 @@ class HosContact extends StatelessWidget {
                               '+49 157 30261644',
                               style: TextStyle(
                                 fontSize: 20.0,
-                                fontFamily: 'SourceSansPro',
+                                fontFamily: 'EBGraramond-Regular',
                                 color: Color(0xFF0c014d),
                               ),
                             ),
@@ -200,7 +200,7 @@ class HosContact extends StatelessWidget {
                                 style: TextStyle(
                                   color: Color(0xFF0c014d),
                                   fontSize: 30.0,
-                                  fontFamily: 'SourceSansPro',
+                                  fontFamily: 'EBGraramond-RegularEBGraramond-Regular',
                                   fontWeight: FontWeight.bold,
                                 ),
                               ),
@@ -208,7 +208,7 @@ class HosContact extends StatelessWidget {
                                 'info@houseofsolution.de',
                                 style: TextStyle(
                                   fontSize: 20.0,
-                                  fontFamily: 'SourceSansPro',
+                                  fontFamily: 'EBGraramond-RegularEBGraramond-Regular',
                                   color: Color(0xFF0c014d),
                                 ),
                               ),

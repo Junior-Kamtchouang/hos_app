@@ -81,8 +81,13 @@ flutter:
   - family: SourceSansPro
     fonts:
     - asset: fonts/SourceSansPro-Regular.ttf
+
+  - family: EBGaramond
+    fonts:
+      - asset: fonts/EBGaramond-Regular.ttf
+
   #       - asset: fonts/TrajanPro_Bold.ttf
-  #         weight: 700
+#           weight: 700
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.io/custom-fonts/#from-packages
